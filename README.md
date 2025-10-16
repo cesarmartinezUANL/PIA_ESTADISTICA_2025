@@ -6,6 +6,6 @@ En este curso introductorio revisamos los comandos básicos de R, los diferentes
 
 En la primera actividad aprendimos los comandos básicos de R...
 
-En la segunda actividad calculamos estadísticas básicas a partir de un conjunto de datos en R...
+En la segunda actividad calculamos estadísticas básicas a partir de un conjunto de datos en R. En este ejercicio se utilizó la prueba t de dos colas y se obtuvieron valores de p e intervalos de confianza.
 
 En la tercera actividad empleamos el método de ANOVA en R para identificar si existen diferencias significativas en concentraciones de estroncio en cinco cuerpos de agua. Para ello, se planteó una hipótesis nula, se realizó el análisis de la varianza y se emplearon las pruebas de Tukey y HSD.
