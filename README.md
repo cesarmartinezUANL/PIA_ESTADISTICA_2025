@@ -1,13 +1,15 @@
-#PIA_ESTADISTICA_2025
-Material del curso de Posgrado PIA_Estadistica 2025
+# PIA_Estadística_2025
+Material del curso de Posgrado **PIA_Estadística 2025**.
 
-#Actividades realizadas:
+## Actividades realizadas
+En este curso introductorio revisamos los **comandos básicos de R**, los **tipos de información** (cualitativa y cuantitativa) y realizamos **cálculos sencillos** para identificar diferencias significativas mediante **intervalos de confianza**.
 
-En este curso introductorio revisamos los comandos básicos de R, los diferentes tipos de información (cualitativa y cuantitativa), y aprendimos a realizar cálculos sencillos para, por ejemplo, identificar diferencias significativas de acuerdo con un intervalo de confianza.
+### Actividad 1
+Aprendimos comandos básicos de **R** e identificamos **variables cualitativas y cuantitativas** usando datos de un grupo de estudiantes universitarios.
 
+### Actividad 2
+Calculamos **estadísticas básicas** en **R**. Aplicamos una **prueba t de dos colas**, reportamos **valor p** e **intervalos de confianza**.
 
-En la primera actividad aprendimos los comandos básicos de R, identificamos los tipos de variables cualitativas y cuantitativas a partir de datos de un grupo de estudiantes universitarios.
+### Actividad 3
+Aplicamos **ANOVA** en **R** para evaluar diferencias en **concentraciones de estroncio** en cinco cuerpos de agua. Establecimos la **hipótesis nula**, corrimos el **análisis de varianza** y usamos **Tukey** y **HSD** para comparaciones post hoc.
 
-En la segunda actividad calculamos estadísticas básicas a partir de un conjunto de datos en R. En este ejercicio se utilizó la prueba t de dos colas y se obtuvieron valores de p e intervalos de confianza.
-
-En la tercera actividad empleamos el método de ANOVA en R para identificar si existen diferencias significativas en concentraciones de estroncio en cinco cuerpos de agua. Para ello, se planteó una hipótesis nula, se realizó el análisis de la varianza y se emplearon las pruebas de Tukey y HSD.
