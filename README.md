@@ -19,3 +19,6 @@ Exploramos la base de datos de iris con el fin de:
 ### Actividad 3
 Aplicamos **ANOVA** en **R** para evaluar diferencias en **concentraciones de estroncio** en cinco cuerpos de agua. Establecimos la **hipótesis nula**, corrimos el **análisis de varianza** y utilizamos las pruebas de **Tukey y HSD**.
 
+
+###Evidencia de contribuciones
+![Gráfica de contribuciones] (assets/contribuciones.png)
