@@ -11,12 +11,15 @@ En este curso introductorio revisamos los **comandos básicos de R**, los **tipo
 La actividad de Laboratorio 1 se dividió en dos partes. En la **primera parte** aprendimos los conceptos básicos de **R y RStudio**, algunos comandos básicos de **R**. En la **segunda parte** identificamos **variables cualitativas, cuantitativas y categóricas** usando datos de un grupo de estudiantes universitarios.
 
 ### Actividad 2
+En Laboratorio 2 aprendimos los conceptos básicos de la intefaz entre RStudio y Github, creamos nuestro primer repositorio y nos conectamos por medio de Github.
+
+### Actividad 3
 Exploramos la base de datos de iris con el fin de: 
 **describir y comprender la estructura de un conjunto de datos reales**
 **aplicar e interpretar pruebas estadísticas básicas para identificar diferencias entre medias poblacionales** de las especies **versicolor y virginica**
 **interpretar resultados en términos estadísticos (**valores de p, intervalos de confianza, gráficas de boxplot**) y en términos biológicos**.
 
-### Actividad 3
+### Actividad 4
 Aplicamos **ANOVA** en **R** para evaluar diferencias en **concentraciones de estroncio** en cinco cuerpos de agua. Establecimos la **hipótesis nula**, corrimos el **análisis de varianza** y utilizamos las pruebas de **Tukey y HSD**.
 
 
