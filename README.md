@@ -14,8 +14,8 @@ La actividad de Laboratorio 1 se dividió en dos partes. En la **primera parte**
 Exploramos la base de datos de iris con el fin de: 
 **describir y comprender la estructura de un conjunto de datos reales**
 **aplicar e interpretar pruebas estadísticas básicas para identificar diferencias entre medias poblacionales** de las especies **versicolor y virginica**
-**interpretar resultados en términos estadísticos (**valores de p, intervalos de confianza, gráficas de boxplot**) y en términos biológicos**
+**interpretar resultados en términos estadísticos (**valores de p, intervalos de confianza, gráficas de boxplot**) y en términos biológicos**.
 
 ### Actividad 3
-Aplicamos **ANOVA** en **R** para evaluar diferencias en **concentraciones de estroncio** en cinco cuerpos de agua. Establecimos la **hipótesis nula**, corrimos el **análisis de varianza** y utilizamos las pruebas de **Tukey y HSD**
+Aplicamos **ANOVA** en **R** para evaluar diferencias en **concentraciones de estroncio** en cinco cuerpos de agua. Establecimos la **hipótesis nula**, corrimos el **análisis de varianza** y utilizamos las pruebas de **Tukey y HSD**.
 
