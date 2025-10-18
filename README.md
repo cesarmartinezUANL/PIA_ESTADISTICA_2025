@@ -2,7 +2,7 @@
 Material del curso de Posgrado **PIA_Estadística 2025**.
 
 ## Objetivo
-El objetivo del repositorio es documentar las actividades realizadas como parte del PIA de Estadística del Doctorado en Manejo de Recursos Forestales correspondiente al período Agosto-Diciembre de 2025. Se divide en tres directorios que son Scripts, Tareas y Laboratorio.  
+El objetivo del repositorio es documentar las actividades realizadas como parte del PIA de Estadística del Doctorado en Manejo de Recursos Forestales correspondiente al período Agosto-Diciembre de 2025. Los materiales del curso se dividen en tres directorios que son Scripts, Tareas y Laboratorio.  
 
 ## Actividades realizadas
 En este curso introductorio revisamos los **comandos básicos de R**, los **tipos de información** (cualitativa y cuantitativa) y realizamos **cálculos sencillos** para identificar diferencias significativas mediante **intervalos de confianza**.
